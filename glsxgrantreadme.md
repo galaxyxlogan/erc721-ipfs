@@ -2,7 +2,7 @@
 
 **Name of Project:**  ERC721 contracts with IPFS (GLSX)
 
-**Proposer:** GalaxyXLogan
+**Proposer:** @GalaxyXLogan
 
 **Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?**
 
