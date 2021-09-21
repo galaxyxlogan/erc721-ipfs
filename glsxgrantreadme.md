@@ -30,7 +30,7 @@ We are lowering the level of difficulty, complexity, & security needed to use IP
 - We could risk making a customer’s private data public by accident. We will test in phases with non-mission critical data first to avoid mistakes. 
 
 **What are the risks that will make executing on this project difficult?**
-- Keeping our UI light, With using a Web ui, we will need to keep elements on the page to a minimum.
+- Keeping our UI light. With using a Web-ui, we will need to keep elements on the page to a minimum.
 - Dealing with blockchains when their slow. Getting metadata to sync with contracts within a reasonable amount of time (we can change blockchain networks to our choosing if ERC721 is not the best option).
 
 
