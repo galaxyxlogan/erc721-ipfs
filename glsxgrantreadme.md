@@ -15,7 +15,6 @@ Companies need a secure, cost effective, & reliable way to authenticate & manage
 For this grant proposal, our client is an independent art gallery in Haiti/Miami, Gallery le Studio (GLS). 
 
 https://www.artsy.net/partner/galerie-le-studio/works
-
 https://www.instagram.com/whereislestudio/?hl=en
 
 The GLSX project is to provide an application for GLS to authenticate physical paintings using the resiliency/censorship resistance of IPFS + Blockchains. They want to demonstrate a new standard for combating fraud in their business by digitizing physical Certificates of Authenticity (COA) and allowing collectors to hold their digital COAs. GLS needs an easy to use web app for internal tokens use as well as for collectors to hold/manage their painting certificates. There will be a simple app login for managing COAs in an easy to use UI + Bitski wallet.
@@ -31,16 +30,17 @@ What are the risks if you don’t get it right?
 - We could risk making a customer’s private data public by accident. We will test in phases with non-mission critical data first to avoid mistakes. 
 
 What are the risks that will make executing on this project difficult?
-- With using a Web ui, we will need to keep elements on the page to a minimum. 
-- Getting metadata to sync with contracts within a reasonable amount of time (we can change blockchain networks to our choosing if ERC721 is not the best option).
+- Keeping our UI light, With using a Web ui, we will need to keep elements on the page to a minimum.
+- Dealing with blockchains when their slow.nGetting metadata to sync with contracts within a reasonable amount of time (we can change blockchain networks to our choosing if ERC721 is not the best option).
 
 
 Deliverables/Development Roadmap:
 
-1) Research & experimentation with IPFS node, Erc-20/ERC-721, as well as other token formats (Logan Lentz, Vraj Patel)
+1) Research & experimentation with IPFS node, ERC-721, as well as other token formats (Logan Lentz, Vraj Patel)
 - Saving data on an ETH token
 - Pinning Data in IPFS
 - Compiling report on feasibility & usability
+- How could we do this with IPFS alone?
 
 
 2) Udpate company website: galaxyx.zil (Logan Lentz & Vraj)
@@ -77,7 +77,7 @@ Deliverables/Development Roadmap:
 - Library Updates
 - User On-boarding
 
-Total Budget Requested:
+Total Budget Requested
 Milestone, Hours, Cost
 1) Research & development with IPFS & ERC-721 other ERC candidates 
 - Compiling report on feasibility & usability
@@ -127,15 +127,14 @@ Total Hours = 150
 $90/Hr (15-20 hrs/week)
 = $15,000
 
-Maintenance & Upgrade Plans:
+Maintenance & Upgrade plans
 
 Maintain our system with GLS and with at least 1 of their collectors for at least 6 months.
 
 Maintaining Repos and keeping libraries up to date will help build off this software adding features as necessary. 
 
 
-Team:
-
+Team
 Alex Mirran (CEO)
 Northeastern University Finance & Entrepreneurship Undergraduate 2018
 Experience in technology consulting with many years spent learning in the Bitcoin/Blockchain space 
@@ -156,13 +155,10 @@ Hult University MBA International Business 2019
 Background in International trade 
 
 
-Team website:
+Team website- galaxyx.io or galaxyx.zil
 
-galaxyx.io
+Relevant experience 
 
-galaxyx.zil
-
-Relevant experience:
 The cost & complexity of running a reliable, secure, & efficient data management system is too high for many businesses to deliver. The GalaxyX team has been participating in the IPFS/Blockchain ecosystem for over 4 years looking for ways to address some of these big data management problems. We believe a large part of the solution is web 3.0 adoption within data intensive web 3.0 & 2.0 companies for security & authentication of data.  
 
 Logan Lentz has been working with IPFS and JS.IPFS for years & has been building models for security, technical efficiency, as well as ease of use. Logan worked at AWS as a junior cloud dev/code reviewer. He also taught an intro to Blockchain course at the University of Southern Florida.
