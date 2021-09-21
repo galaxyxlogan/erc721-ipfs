@@ -8,7 +8,7 @@
 
 Yes, although as we progress in our product testing with users, we plan to develop pro features and custom integrations where we will charge a fee. This potential future revenue would be used to fund infrastructure costs, and on-going maintenance costs. 
 
-**Project Description: **
+**Project Description:**
 
 Companies need a secure, cost effective, & reliable way to authenticate & manage data as the costs of ensuring trust in the digital world are very high. GalaxyX is building software that makes data resilient & verifiable by leveraging Web 3.0 technology like IPFS, & Ethereum (ERC-721) through an easy to use web-ui in JS. We are focused on simplicity in both the backend & frontend of the application. Our plan is to build efficient methods to link IPFS hashes with other forms of data for normal companies to cost-effectively secure their data at scale.
 
