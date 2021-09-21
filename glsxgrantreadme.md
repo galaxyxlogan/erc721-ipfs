@@ -135,6 +135,7 @@ Maintaining Repos and keeping libraries up to date will help build off this soft
 
 
 Team:
+
 Alex Mirran (CEO)
 Northeastern University Finance & Entrepreneurship Undergraduate 2018
 Experience in technology consulting with many years spent learning in the Bitcoin/Blockchain space 
