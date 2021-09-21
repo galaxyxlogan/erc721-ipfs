@@ -77,8 +77,8 @@ Deliverables/Development Roadmap:
 - Library Updates
 - User On-boarding
 
-Total Budget Requested
-Milestone, Hours, Cost
+Total Budget Requested:
+
 1) Research & development with IPFS & ERC-721 other ERC candidates 
 - Compiling report on feasibility & usability
 - 35 hrs
@@ -127,14 +127,14 @@ Total Hours = 150
 $90/Hr (15-20 hrs/week)
 = $15,000
 
-Maintenance & Upgrade plans
+Maintenance & Upgrade plans:
 
 Maintain our system with GLS and with at least 1 of their collectors for at least 6 months.
 
 Maintaining Repos and keeping libraries up to date will help build off this software adding features as necessary. 
 
 
-Team
+Team:
 Alex Mirran (CEO)
 Northeastern University Finance & Entrepreneurship Undergraduate 2018
 Experience in technology consulting with many years spent learning in the Bitcoin/Blockchain space 
@@ -155,9 +155,13 @@ Hult University MBA International Business 2019
 Background in International trade 
 
 
-Team website- galaxyx.io or galaxyx.zil
+Team website:
 
-Relevant experience 
+galaxyx.io
+
+galaxyx.zil
+
+Relevant experience:
 
 The cost & complexity of running a reliable, secure, & efficient data management system is too high for many businesses to deliver. The GalaxyX team has been participating in the IPFS/Blockchain ecosystem for over 4 years looking for ways to address some of these big data management problems. We believe a large part of the solution is web 3.0 adoption within data intensive web 3.0 & 2.0 companies for security & authentication of data.  
 
