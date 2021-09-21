@@ -1,4 +1,4 @@
-Open Grant Proposal
+**Open Grant Proposal**
 
 Name of Project:  ERC721 contracts with IPFS (GLSX)
 
@@ -31,7 +31,7 @@ What are the risks if you don’t get it right?
 
 What are the risks that will make executing on this project difficult?
 - Keeping our UI light, With using a Web ui, we will need to keep elements on the page to a minimum.
-- Dealing with blockchains when their slow.nGetting metadata to sync with contracts within a reasonable amount of time (we can change blockchain networks to our choosing if ERC721 is not the best option).
+- Dealing with blockchains when their slow. Getting metadata to sync with contracts within a reasonable amount of time (we can change blockchain networks to our choosing if ERC721 is not the best option).
 
 
 Deliverables/Development Roadmap:
