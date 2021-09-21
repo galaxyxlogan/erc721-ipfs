@@ -77,7 +77,7 @@ Deliverables/Development Roadmap:
 - Library Updates
 - User On-boarding
 
-Total Budget Requested
+Total Budget Requested:
 Milestone, Hours, Cost
 1) Research & development with IPFS & ERC-721 other ERC candidates 
 - Compiling report on feasibility & usability
