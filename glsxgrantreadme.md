@@ -125,6 +125,7 @@ Total Budget Requested:
 
 Total Hours = 150
 $90/Hr (15-20 hrs/week)
+
 = $15,000
 
 Maintenance & Upgrade plans:
