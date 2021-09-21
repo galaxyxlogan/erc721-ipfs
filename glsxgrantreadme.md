@@ -52,13 +52,13 @@ We are lowering the level of difficulty, complexity, & security needed to use IP
 - ERC-721 with IPFS hash within metadata for document location(5hrs)
 - [ERC-721 Contract Factory for GLSX]
 - Creation of ERC-721 Token sent to Bitski Wallet and/or Metamask(5hrs)
-- Website built with client ID authentication and token storage through Bitski hosted on AWS(40 hrs)
-- Click hash to download a Certificate of Authenticity PDF for the token
-- Bitski App Wallet for JS Application 
+- WebUI built with client ID authentication and token storage through Bitski(40 hrs)
+- Click hash to download a Certificate of Authenticity PDF for the token(ipfs link)
+- 
 
 4) Filecoin contract for document data(5-10hrs)
 - Configure Lotus
-- Pinata Submarining possible
+- Pinata can be used as well 
 
 
 5) Documentation for project, performance enhancements, bug fixes (Logan Lentz & Vraj)
