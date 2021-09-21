@@ -127,14 +127,14 @@ Total Hours = 150
 $90/Hr (15-20 hrs/week)
 = $15,000
 
-Maintenance & Upgrade plans
+Maintenance & Upgrade Plans:
 
 Maintain our system with GLS and with at least 1 of their collectors for at least 6 months.
 
 Maintaining Repos and keeping libraries up to date will help build off this software adding features as necessary. 
 
 
-Team
+Team:
 Alex Mirran (CEO)
 Northeastern University Finance & Entrepreneurship Undergraduate 2018
 Experience in technology consulting with many years spent learning in the Bitcoin/Blockchain space 
@@ -155,10 +155,12 @@ Hult University MBA International Business 2019
 Background in International trade 
 
 
-Team website- galaxyx.io or galaxyx.zil
+Team website:
+galaxyx.io
 
-Relevant experience 
+galaxyx.zil
 
+Relevant experience:
 The cost & complexity of running a reliable, secure, & efficient data management system is too high for many businesses to deliver. The GalaxyX team has been participating in the IPFS/Blockchain ecosystem for over 4 years looking for ways to address some of these big data management problems. We believe a large part of the solution is web 3.0 adoption within data intensive web 3.0 & 2.0 companies for security & authentication of data.  
 
 Logan Lentz has been working with IPFS and JS.IPFS for years & has been building models for security, technical efficiency, as well as ease of use. Logan worked at AWS as a junior cloud dev/code reviewer. He also taught an intro to Blockchain course at the University of Southern Florida.
