@@ -1,6 +1,6 @@
 **Open Grant Proposal**
 
-**Name of Project:**  ERC721 contracts with IPFS (GLSX)
+**Name of Project:**  ERCtoken contracts with IPFS (GLSX)
 
 **Proposer:** @GalaxyXLogan
 
@@ -10,7 +10,7 @@ Yes, although as we progress in our product testing with users, we plan to devel
 
 **Project Description:**
 
-Companies need a secure, cost effective, & reliable way to authenticate & manage data as the costs of ensuring trust in the digital world are very high. GalaxyX is building software that makes data resilient & verifiable by leveraging Web 3.0 technology like IPFS, & Ethereum (ERC-721) through an easy to use web-ui in JS. We are focused on simplicity in both the backend & frontend of the application. Our plan is to build efficient methods to link IPFS hashes with other forms of data for normal companies to cost-effectively secure their data at scale.
+Companies need a secure, cost effective, & reliable way to authenticate & manage data as the costs of ensuring trust in the digital world are very high. GalaxyX is building software that makes data resilient & verifiable by leveraging Web 3.0 technology like IPFS, & Ethereum (ERC-721, Polygon) through an easy to use web-ui in JS. We are focused on simplicity in both the backend & frontend of the application. Our plan is to build efficient methods to link IPFS hashes with other forms of data for normal companies to cost-effectively secure their data at scale.
 
 For this grant proposal, our client is an independent art gallery in Haiti/Miami, Gallery le Studio (GLS). 
 
@@ -36,7 +36,7 @@ We are lowering the level of difficulty, complexity, & security needed to use IP
 
 **Deliverables/Development Roadmap:**
 
-1) Research & experimentation with IPFS node, ERC-721, as well as other token formats (Logan Lentz, Vraj Patel)
+1) Research & experimentation with IPFS node, ERC-721,layer 2 platforms as well as other token formats (Logan Lentz, Vraj Patel)
 - Saving data on an ETH token
 - Pinning Data in IPFS
 - Compiling report on feasibility & usability
